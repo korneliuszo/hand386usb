@@ -1,0 +1,3 @@
+[submodule "winvxdlib"]
+	path = winvxdlib
+	url = https://github.com/korneliuszo/winvxdlib/
